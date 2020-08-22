@@ -10,20 +10,20 @@
 - werkzeug
 
 > ## :heavy_check_mark:Windows
-* Run  ```pip install -r requirements.txt``` to install dependencies
-* Run ```python3 -m venv <env name>``` to create virtual environment
-* Run ```<env name>\scripts\activate``` 
-* Run ```SET FLASK_APP=<folder name>``` create folder with these files
-* Run ```SET FLASK_DEBUG=1```
-* Run ```flask run```
+*  ```pip install -r requirements.txt``` to install dependencies
+* ```python3 -m venv <env name>``` to create virtual environment
+* ```<env name>\scripts\activate``` 
+* ```SET FLASK_APP=<folder name>``` create folder with these files
+* ```SET FLASK_DEBUG=1```
+* ```flask run```
 
 > ## :heavy_check_mark:Linux
-* Run  ```pip install -r requirements.txt``` to install dependencies
-* Run ```python3 -m venv <env name>``` to create virtual environment
-* Run ```source <env name>\scripts\activate``` 
-* Run ```export FLASK_APP=<folder name>``` create folder with these files
-* Run ```export FLASK_DEBUG=1```
-* Run ```flask run```
+* ```pip install -r requirements.txt``` to install dependencies
+* ```python3 -m venv <env name>``` to create virtual environment
+* ```source <env name>\scripts\activate``` 
+* ```export FLASK_APP=<folder name>``` create folder with these files
+* ```export FLASK_DEBUG=1```
+* ```flask run```
 
 
 
