@@ -1,0 +1,6 @@
+1.Install Modules
+2.create Virtual Environment and go to its path
+3.<env name>\scripts\activate
+4.SET FLASK_APP=project(folder name)
+5.SET FLASK_DEBUG=1
+6.flask run
